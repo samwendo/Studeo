@@ -17,3 +17,6 @@
 * Bootstrap
 * JavaScript
 * jQuery
+# AUTHORS CONTACT
+* SAM WENDO
+* WENDOSAM21@GMAIL.COM
