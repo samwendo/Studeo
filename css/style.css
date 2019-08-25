@@ -6,7 +6,7 @@ body{
   text-shadow: 4px 4px 4px #aaa;
 }
 
-}
+
 @media only screen and (min-width:320px) and (max-width:414px) {
 #welcome{ 
   width: 35%;
