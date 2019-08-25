@@ -16,6 +16,7 @@ $(document).ready(function(){
     });
   });
   
+  
   $(document).ready(function() {
     $("#dev").click(function () {
       $("#dev-img").toggle();
