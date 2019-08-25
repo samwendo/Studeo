@@ -9,3 +9,4 @@
 * 2. Go through the welcome section and the about us section which describes who Delani studio is
 * 3. Scroll down to the services section which describes what they offer.
 * 4. Lastly, the contact us section is where you put in your contact info and short message
+# BDD
